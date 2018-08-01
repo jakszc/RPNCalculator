@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorGreyButton">#2d2b2b</color>
+    <color name="colorSeaButton">#3eb38c</color>
+    <color name="color_1">#800d0a</color>
+    <color name="color_2">#817d00</color>
+    <color name="color_3">#108901</color>
+    <color name="color_4">#007881</color>
+    <color name="color_5">#5b1a5b</color>
+    <color name="color_6">#FF4081</color>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="paddingScreen">5dp</dimen>
+    <dimen name="textButtonNumber">25sp</dimen>
+</resources>

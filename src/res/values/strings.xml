@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">RPNCalc</string>
+    <string name="vertical_ellipsis">&#8942;</string>
+    <string name="precision">Precision:</string>
+    <string name="stack">Stack:</string>
+    <string name="right_arrow">&#8594;</string>
+    <string name="_4">4:</string>
+    <string name="_2">2:</string>
+    <string name="_3">3:</string>
+    <string name="_1">1:</string>
+
+    <string name="plusSymbol">&#43;</string>
+    <string name="minusSymbol">&#8722;</string>
+    <string name="plusminusSymbol">&#43;/&#8722;</string>
+    <string name="divisionSymbol">&#247;</string>
+    <string name="multiplicationSymbol">&#215;</string>
+    <string name="rootSymbol">&#8730;</string>
+    <string name="powerSymbol">y^x</string>
+    <string name="enterButton">E\nN\nT\nE\nR</string>
+    <string name="title_activity_menu">MenuActivity</string>
+
+    <string name="color_name_1">Dark Burgundy</string>
+    <string name="color_name_2">Olivetone</string>
+    <string name="color_name_3">Forest Green</string>
+    <string name="color_name_4">Eastern Blue</string>
+    <string name="color_name_5">Tawny Port</string>
+    <string name="color_name_6">Pink</string>
+
+</resources>
